@@ -1,0 +1,8 @@
+{
+    "label": "Sample Documentation",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "Sample Documentation to see what it's all about"
+    }
+  }
